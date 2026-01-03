@@ -1,0 +1,6 @@
+{
+  "scheme": "http",
+  "host": "localhost",
+  "port": 50000,
+  "retryDelay": 1
+}
